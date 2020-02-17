@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../leetcode/TwoSum" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,7 +66,7 @@
       <workItem from="1571138607747" duration="3729000" />
       <workItem from="1571187931240" duration="6273000" />
       <workItem from="1571205178990" duration="5969000" />
-      <workItem from="1571214161056" duration="2302000" />
+      <workItem from="1571214161056" duration="2948000" />
     </task>
     <servers />
   </component>
